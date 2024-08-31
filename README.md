@@ -9,7 +9,7 @@ To tackle this complex problem, we have focused on implementing and integrating 
 - **VF2 Algorithm**: Designed for general graphs.
 - **AHU Algorithm**: Specialized for trees.
 
-These algorithms were incorporated into the **[[Graph4J](https://github.com/GabiIgnat/Graph4J)]** library, and a Java Swing GUI was developed to facilitate the creation, editing, and testing of graphs for isomorphism. Additionally, a performance comparison was conducted against similar algorithms from other libraries such as JGrapht and NetworkX, showing superior efficiency in both time and space complexity.
+These algorithms were incorporated into the **[[Graph4J](https://edu.info.uaic.ro/programare-avansata/graph4j/)]** library, and a Java Swing GUI was developed to facilitate the creation, editing, and testing of graphs for isomorphism. Additionally, a performance comparison was conducted against similar algorithms from other libraries such as JGrapht and NetworkX, showing superior efficiency in both time and space complexity.
 
 ### Algorithms : [algorithms](IsomorphismAlgo/)
 
@@ -24,6 +24,13 @@ The research paper provides a comprehensive overview of the methodologies, imple
 ### Degree of the Thesis
 
 - 10/10
+
+## See also
+- Link to Graph4J repo: https://github.com/cfrasinaru/Graph4J
+- Link to my full project (forked from cfrasinaru/Graph4J): https://github.com/GabiIgnat/Graph4J
+
+##
+##
 
 <p align="center">
   Thank you for your interest!
