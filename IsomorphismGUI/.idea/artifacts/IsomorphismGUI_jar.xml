@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IsomorphismGUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IsomorphismGUI_jar</output-path>
+    <root id="archive" name="IsomorphismGUI.jar">
+      <element id="module-output" name="IsomorphismGUI" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../flatlaf-3.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Graph4J/out/artifacts/graph4j_1_0_7/graph4j-1.0.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
